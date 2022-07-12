@@ -2,4 +2,8 @@
     <string name="app_name">My Notes</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_fourth_fragment">hello_Fourth_fragment</string>
+    <string name="hello_third_fragment">hello_Third_fragment</string>
+    <string name="hello_second_fragment">hello_Second_fragment</string>
+    <string name="hello_home_fragment">hello_Home_fragment</string>
 </resources>

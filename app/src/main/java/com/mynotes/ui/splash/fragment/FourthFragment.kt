@@ -1,4 +1,4 @@
-package com.mynotes.ui.home.fragment
+package com.mynotes.ui.splash.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
